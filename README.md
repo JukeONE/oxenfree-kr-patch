@@ -1,6 +1,6 @@
 # Oxenfree 한글패치 — by.김쥬크
 
-Steam판 **Oxenfree** 최신 버전용 한글패치입니다. 베타 버전으로 다운그레이드할 필요가 없습니다.
+Steam판 **Oxenfree** 최신 버전용 한글패치입니다. 
 
 ## 설치
 1. [Releases](../../releases)에서 `Oxenfree_KR_v1.0.exe`를 받습니다.
